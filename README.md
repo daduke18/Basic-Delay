@@ -1,2 +1,2 @@
 # Basic-Delay
-A JUCE C++ stereo delay plugin 
+A simple JUCE C++ stereo delay plugin 
